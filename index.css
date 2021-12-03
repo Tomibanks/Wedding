@@ -7,7 +7,7 @@
 .header {
   min-height: 100vh;
   width: 100%;
-  background-image: url(./IMG_2091.jpg);
+  background-image: url(./Images/IMG_2091.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -177,7 +177,7 @@ p {
 
 h3 {
   text-align: center;
-  font-weight: 600;
+  font-weight: bolder;
   margin: 10px 0px;
 }
 .course-col:hover {
